@@ -17,3 +17,9 @@
 </div>
 
 ### :sunglasses: Обо мне :
+
+- :boom: факт обо мне
+
+- :exploding_head: факт обо мне
+
+- :money_mouth_face: факт обо мне
