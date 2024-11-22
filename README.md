@@ -23,3 +23,5 @@
 - :exploding_head: факт обо мне
 
 - :money_mouth_face: факт обо мне
+
+### :hammer_and_wrench: Языки и инструменты :
